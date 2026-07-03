@@ -39,4 +39,4 @@ tkinter-quiz-game/
 - Sound effects
 
 ## Author
-Salman
+Salman Quadri
